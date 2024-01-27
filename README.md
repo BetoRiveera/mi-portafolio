@@ -1,5 +1,5 @@
-# Proyecto de mi portafolio 
+# Proyecto de mi Portafolio 
 
 Loren ipsum ...
 
-Azul de la empresa: #24342
+Azul de la empresa: #000032
