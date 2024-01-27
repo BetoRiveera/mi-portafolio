@@ -2,4 +2,6 @@
 
 Loren ipsum ...
 
-Azul de la empresa: #000032
+
+
+About me, es una nueva pagina
